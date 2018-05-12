@@ -1,0 +1,27 @@
+_repo: Robin-Tremayne--13-A-Story-of-the-Marian-Persecution_28040
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2009-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- Church history -- 16th century -- Fiction'
+- !lcc 'PR'
+title: "Robin Tremayne\r\nA Story of the Marian Persecution"
+url: http://www.gutenberg.org/ebooks/28040
